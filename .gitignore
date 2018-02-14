@@ -1,0 +1,10 @@
+Library/
+Temp/
+RoboSignal.csproj
+RoboSignal.sln
+.vs/RoboSignal/v14/.suo
+RoboSignal.Editor.csproj
+.vs/
+ggj_robot_thing.Editor.csproj
+ggj_robot_thing.sln
+ggj_robot_thing.csproj
